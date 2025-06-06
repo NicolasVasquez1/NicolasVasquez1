@@ -3,7 +3,7 @@
 Soy Ingeniero en Informático y futuro Ingeniero Civil Industrial. Me apasiona el desarrollo de software, la ciencia de datos y la construcción de soluciones tecnológicas con impacto.
 
 ## 🚀 Tecnologías que uso
-- Frontend: React, React Native, Expo
+- Frontend: React, TypeScript, React Native, Expo
 - Backend: Node.js, Express, FastAPI
 - Bases de datos: PostgreSQL, SQLite, MySQL
 - Python (Pandas, Scikit-learn, Jupyter)
